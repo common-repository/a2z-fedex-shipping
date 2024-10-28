@@ -1,0 +1,32 @@
+{
+  "accountNumber": {
+    "value": "{acc_no}"
+  },
+  "requestedShipment": {
+    "shipper": {
+      "address": {
+        "postalCode": "{s_zip}",
+        "countryCode": "{s_country}"
+      }
+    },
+    "recipient": {
+      "address": {
+        "postalCode": "{r_zip}",
+        "countryCode": "{r_country}"
+      }
+    },
+    "pickupType": "DROPOFF_AT_FEDEX_LOCATION",
+    "rateRequestType": [
+      "ACCOUNT",
+      "LIST"
+    ],
+    "requestedPackageLineItems": [
+      {
+        "weight": {
+          "units": "LB",
+          "value": "{tot_weg}"
+        }
+      }
+    ]
+  }
+}
