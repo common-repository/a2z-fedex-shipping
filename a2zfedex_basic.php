@@ -3,7 +3,7 @@
  * Plugin Name:  FedEx Rates & Labels
  * Plugin URI: https://myshipi.com/
  * Description: Realtime Shipping Rates, shipping labels.
- * Version: 4.7.8
+ * Version: 4.7.9
  * Author: Shipi
  * Author URI: https://myshipi.com/
  * Developer: Shipi

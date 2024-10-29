@@ -2,9 +2,9 @@
 Contributors: aarsiv
 Tags: fedex, fedex woocommerce, woocommerce fedex, fedex shipping, shipping
 Requires at least: 4.6.1
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 5.6
-Stable tag: 4.7.8
+Stable tag: 4.7.9
 License: GPLv3 or later License
 URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -158,6 +158,8 @@ We are Web Development Company in France. We are planning for High Quality WordP
 8. Create manual label/view label on edit order page.
 
 == Changelog ==
+= 4.7.9 =
+	> [clear] New Wordpress version tested.
 = 4.7.8 =
 	> [clear] Removed some unusual fields now.
 = 4.7.7 =
